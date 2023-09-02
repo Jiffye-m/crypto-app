@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Crypto Currency App</string>
+    <string name="title_activity_main">Crypto Currency App</string>
+    <string name="package_name">org.capacitor.crypto.app</string>
+    <string name="custom_url_scheme">org.capacitor.crypto.app</string>
+</resources>
